@@ -83,7 +83,14 @@ local words = {
   ['like'] = "Dating",
   ['free'] = "Dating",
   ['gf'] = "Dating",
-  ['bf'] = "Dating"
+  ['bf'] = "Dating",
+	['mwah'] = "Dating",
+	[':3'] = "Dating",
+	['mommy'] = "Dating",
+	['daddy'] = "Dating",
+	['feet'] = "Dating",
+	['fetish'] = "Dating",
+	['lick'] = "Dating"
 }
 
 local players = game:GetService('Players')
